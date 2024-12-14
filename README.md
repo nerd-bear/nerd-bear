@@ -4,7 +4,7 @@
 
 
 Tech stack:
-  Python, C++, javascript, typescript, bash, batch, bulma, tailwind, css, html and ASMx86
+  Java, Kotlin, Skript, Python, C++, javascript, typescript, bash, batch, bulma, tailwind, css, html and ASMx86
 
 **Contact:**
   Discord: nerd.bear
