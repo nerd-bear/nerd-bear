@@ -1,6 +1,6 @@
 ## Hello there!
 
-> I'm nerd-bear (Discord nerd.bear) and I have been coding in python for the last 5 years and in C++ for the last few months. I am currently 14 years old and I'm working on a mixed function software called bassil that currently has no specific use case. Also have been messing aroung with OpenGL (GLFW, GLAD, etc..)
+I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years and in C++ for the last 8 months. I am currently 14 years old. I'm working on an advanced Terminal Emulator & Shell called [SQS](https://github.com/nerd-bear/sqs). Also, I am using OpenGL in C++ and Objective C (GLFW, GLAD, KHR, GLUT)
 
 
 ## Tech stack
