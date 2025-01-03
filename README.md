@@ -1,12 +1,12 @@
 ## Hello there!
 
-I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years and in C++ for the last 8 months. I am currently 14 years old. I'm working on an advanced Terminal Emulator & Shell called [SQS](https://github.com/nerd-bear/sqs). Also, I am using OpenGL in C++ and Objective C (GLFW, GLAD, KHR, GLUT)
+I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years and in C++ for the previous 8 months. I am currently 14 years old. I'm working on an advanced Terminal Emulator & Shell called [SQS](https://github.com/nerd-bear/sqs). Also, I am using OpenGL in C++ and Objective C (GLFW, GLAD, KHR, GLUT)
 
 
 ## Tech stack
 <p align="center">
     <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,cpp,react,kotlin,java,python,bash,maven,gradle,bootstrap,nextjs,tailwind,cmake,githubactions,jquery,discord,mongodb,sqlite,postgresql,vim,neovim,idea,vscode,docker,github&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linode,ts,js,html,css,cpp,react,kotlin,java,python,bash,maven,gradle,bootstrap,nextjs,tailwind,cmake,githubactions,jquery,discord,mongodb,sqlite,postgresql,vim,neovim,idea,vscode,docker,github&perline=13" />
     </a>
 </p>
 
