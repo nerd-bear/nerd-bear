@@ -1,4 +1,4 @@
-## Hello there!
+## Low Level (C++, C, OC, ASM) and Minecraft (Kotlin, Java, Skript) and Web (HTML, CSS, JS, Tailwind) Developer!
 
 I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years and in C++ for the previous 8 months. I am currently 14 years old. I'm working on an advanced Terminal Emulator & Shell called [SQS](https://github.com/nerd-bear/sqs). Also, I am using OpenGL in C++ and Objective C (GLFW, GLAD, KHR, GLUT)
 
