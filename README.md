@@ -6,7 +6,7 @@ I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years a
 ## Tech stack
 <p align="center">
     <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=linode,ts,js,html,css,cpp,react,kotlin,java,python,bash,maven,gradle,bootstrap,nextjs,tailwind,cmake,githubactions,jquery,discord,mongodb,sqlite,postgresql,vim,neovim,idea,vscode,docker,github&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,cpp,react,kotlin,java,python,bash,maven,gradle,bootstrap,nextjs,tailwind,cmake,githubactions,jquery,discord,mongodb,sqlite,postgresql,vim,neovim,idea,vscode,docker,github&perline=13" />
     </a>
 </p>
 
@@ -21,5 +21,6 @@ I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years a
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eveeifyeve.eveeifyeve&left_color=royalblue&right_color=mediumpurple&left_text=People%20Visited:)
 
 ## Contact:
-  **Discord:** nerd.bear
-  **Email**: support@nerd-bear.org
+
+**Discord:** nerd.bear
+**Email**: support@nerd-bear.org
