@@ -6,7 +6,7 @@
 Tech stack:
 <p align="center">
     <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,cpp,react,kotlin,java,python,bash,maven,gradle,bootstrap,nextjs,tailwind,cmake,githubactions,jquery,discordpy,disnake,mongodb,sqlite,postgresql,vim,neovim,idea,vscode,docker,github,pr&perline=13" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,cpp,react,kotlin,java,python,bash,maven,gradle,bootstrap,nextjs,tailwind,cmake,githubactions,jquery,discord,mongodb,sqlite,postgresql,vim,neovim,idea,vscode,docker,github&perline=13" />
     </a>
 </p>
 
