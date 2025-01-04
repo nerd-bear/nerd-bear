@@ -18,7 +18,7 @@ I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years a
 *   ⚡  Curious for some help on anything related to my tech stack? Message me on Discord at `nerd.bear`!
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nerd-bear.visitor-badge)
 
 ## Contact:
 
