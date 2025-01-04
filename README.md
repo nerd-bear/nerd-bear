@@ -10,6 +10,8 @@ I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years a
     </a>
 </p>
 
+---
+
 *   🌍  I'm based in the United Kindom
 *   🖥️  See my portfolio at https://nerd-bear.org
 *   ✉️  You can contact me at [support@nerd-bear.org](mailto:support@nerd-bear.org)
@@ -20,7 +22,10 @@ I'm Nerd Bear, and I have been coding Python, and web dev for the last 4 years a
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nerd-bear.visitor-badge)
 
+---
+
 ## Contact:
 
 **Discord:** nerd.bear
+
 **Email**: support@nerd-bear.org
